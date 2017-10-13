@@ -1,0 +1,22 @@
+.yellow{
+	background-color: #FFBC2F;
+	padding-bottom: 3em;
+	width: 200px;
+	height: 100px;
+	
+}
+
+.grey{
+	background-color: grey;
+	padding-bottom: 3em;
+	width: 200px;
+	height: 100px;
+}
+/*afecta a la palabra o letra o contenido*/
+h4,h5{
+	padding: 0.3em;
+}
+
+h5{
+	color: white;
+}

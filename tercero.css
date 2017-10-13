@@ -1,0 +1,24 @@
+.yellow{
+	background-color: #FFBC2F;
+	padding-bottom: 3em;
+	width: 200px;
+	height: 100px;
+	display: inline-block;
+}
+
+.grey{
+	background-color: grey;
+	padding-bottom: 3em;
+	width: 200px;
+	height: 100px;
+	display: inline-block;
+	
+}
+/*afecta a la palabra o letra o contenido*/
+h4{
+	padding: 0.3em;
+}
+
+.distinto{
+	color: white;
+}
